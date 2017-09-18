@@ -294,6 +294,9 @@ Main components
  width: 300px;
  margin: auto;
  }
+ .mini {
+   width: 250px;
+ }
 }
 .util-mb-100px {
  margin-bottom: 100px;
@@ -321,4 +324,3 @@ Main components
  .round{
   border-radius: 50%;
  }
-}
