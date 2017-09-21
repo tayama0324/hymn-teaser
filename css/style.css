@@ -121,7 +121,7 @@ Main components
   border-top: 1px solid #453c3d;
   color: #8e7d7f;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 840px) {
   .cd-main-nav {
     width: auto;
     height: auto;
