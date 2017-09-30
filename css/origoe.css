@@ -20,3 +20,7 @@
 .artist-name {
   font-size: 75%;
 }
+
+.fb_iframe_widget > span {
+  vertical-align: baseline !important;
+}
