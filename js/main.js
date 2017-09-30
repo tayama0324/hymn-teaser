@@ -38,6 +38,6 @@ jQuery(document).ready(function($){
       return false;
    });
 
-
+	 LineIt.loadButton();
 
 });
