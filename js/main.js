@@ -1,19 +1,25 @@
 
 //フレーム追加はここにすること
 var imglist = new Array(
-"frame01.png",
-"frame02.png",
-"frame03.png" );
+	"frame01.png",
+	"frame02.png",
+	"frame03.png",
+	"frame04.png",
+	"frame05.png",
+	"frame06.png",
+	"frame07.png"
+);
 var selectnum = Math.floor(Math.random() * imglist.length);
 frame.src = "img/" + imglist[selectnum];
 
 var skylist = new Array(
-"sky01_01.jpg",
-"sky02_01.jpg",
-"sky03_01.jpg",
-"sky04_01.jpg",
-"sky05_01.jpg",
-"sky06_01.jpg" );
+	"sky01_01.jpg",
+	"sky02_01.jpg",
+	"sky03_01.jpg",
+	"sky04_01.jpg",
+	"sky05_01.jpg",
+	"sky06_01.jpg"
+);
 var selectnum2 = Math.floor(Math.random() * skylist.length);
 sky.src = "img/" + skylist[selectnum2];
 
