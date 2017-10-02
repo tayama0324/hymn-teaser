@@ -1,3 +1,9 @@
+User-agent: Twitterbot
+Disallow: /js/
+Disallow: /.gitignore
+Disallow: /CNAME
+
+
 User-agent: *
 Disallow: /css/
 Disallow: /img/
