@@ -18,7 +18,12 @@ var skylist = new Array(
 	"sky03_01.jpg",
 	"sky04_01.jpg",
 	"sky05_01.jpg",
-	"sky06_01.jpg"
+	"sky06_01.jpg",
+	"IMG_origoe1.jpeg",
+	"IMG_origoe2.jpeg",
+	"IMG_origoe3.jpeg",
+	"IMG_origoe4.jpeg",
+	"IMG_origoe5.jpeg"
 );
 var selectnum2 = Math.floor(Math.random() * skylist.length);
 sky.src = "img/" + skylist[selectnum2];
