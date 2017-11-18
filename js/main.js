@@ -12,22 +12,30 @@ var imglist = new Array(
 var selectnum = Math.floor(Math.random() * imglist.length);
 frame.src = "img/" + imglist[selectnum];
 
-var skylist = new Array(
-	"sky01_01.jpg",
-	"sky02_01.jpg",
-	"sky03_01.jpg",
-	"sky04_01.jpg",
-	"sky05_01.jpg",
-	"sky06_01.jpg",
-	"IMG_origoe1.jpeg",
-	"IMG_origoe2.jpeg",
-	"IMG_origoe3.jpeg",
-	"IMG_origoe4.jpeg",
-	"IMG_origoe5.jpeg"
-);
-var selectnum2 = Math.floor(Math.random() * skylist.length);
-sky.src = "img/" + skylist[selectnum2];
+var skyList = [
+	{ name: "sky01_01.jpg", weight: 1 },
+	{ name: "sky02_01.jpg", weight: 1 },
+	{ name: "sky03_01.jpg", weight: 1 },
+	{ name: "sky04_01.jpg", weight: 1 },
+	{ name: "sky05_01.jpg", weight: 1 },
+	{ name: "sky06_01.jpg", weight: 1 },
+	{ name: "IMG_origoe1.jpeg", weight: 2 },
+	{ name: "IMG_origoe2.jpeg", weight: 2 },
+	{ name: "IMG_origoe3.jpeg", weight: 2 },
+	{ name: "IMG_origoe4.jpeg", weight: 2 },
+	{ name: "IMG_origoe5.jpeg", weight: 2 },
+];
 
+sky.src = function() {
+	var names = [];
+	for (var i = 0; i < skyList.length; ++i) {
+		for (var j = 0; j < skyList[i].weight; ++j) {
+			names.push(skyList[i].name);
+		}
+	}
+	var chosen = Math.floor(Math.random() * names.length);
+	return "img/" + names[chosen];
+}();
 
 jQuery(document).ready(function($){
 	//open-close submenu on mobile
