@@ -284,6 +284,16 @@ Main components
   color: #293E72;
 }
 
+.emphasize {
+   font-size:1.25em;
+   font-weight:bold;
+   text-decoration:underline;
+}
+
+.flyerimg {
+  margin: 0 10px 0 10px;
+}
+
 @media screen and (max-width: 599px){
  .none {display:none
  }
