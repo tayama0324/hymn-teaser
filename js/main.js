@@ -28,7 +28,7 @@ var skyList = [
 	{ name: "IMG_origoe7.jpeg", weight: 2 },
 	{ name: "IMG_origoe8.jpeg", weight: 2 },
 	{ name: "IMG_origoe9.jpeg", weight: 2 },
-	{ name: "IMG_origoe10.jpeg", weight: 2 },
+	{ name: "IMG_origoe10.jpg", weight: 2 },
 	{ name: "IMG_origoe11.jpeg", weight: 2 },
 	{ name: "IMG_origoe12.jpeg", weight: 2 },
 	{ name: "IMG_origoe13.jpeg", weight: 2 },
