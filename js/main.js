@@ -188,7 +188,7 @@ jQuery(document).ready(function($){
 			$('#sky').attr('src', img );
 			$('#sky').fadeIn(1000);
 			});
-		},20000);
+		},10000);
 	 LineIt.loadButton();
 
 });
