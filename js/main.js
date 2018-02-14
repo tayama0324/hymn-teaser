@@ -9,8 +9,6 @@ var imglist = new Array(
 	"frame06.png",
 	"frame07.png"
 );
-var selectnum = Math.floor(Math.random() * imglist.length);
-frame.src = "img/" + imglist[selectnum];
 
 var skyList = [
 	{ name: "sky01_01.jpg", weight: 1 },
@@ -178,7 +176,9 @@ jQuery(document).ready(function($){
 
 	// class fadeinを指定することでフェードインさせる。
   // 引数はmsec
-	$('.fadein').fadeIn(1500);
+	$('.fadein').fadeIn(1500, function(){
+		$('.fadein2').fadeIn(1500);
+	});
   // id='sky'に対して自動で画像を変更する。
 	// setIntervalの引数で時間指定(引数はmsec)
 	setInterval(function() {
