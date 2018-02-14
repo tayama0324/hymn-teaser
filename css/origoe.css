@@ -24,3 +24,8 @@
 .fb_iframe_widget > span {
   vertical-align: baseline !important;
 }
+
+/* フェードイン */
+.fadein {
+  display: none;
+}
