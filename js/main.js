@@ -182,10 +182,16 @@ jQuery(document).ready(function($){
   // id='sky'に対して自動で画像を変更する。
 	// setIntervalの引数で時間指定(引数はmsec)
 	setInterval(function() {
+		var d = new $.Deferred();
 		// fadeOutはあってもなくてもよい
 		img = getSkyImg();
-		$('#sky').stop().fadeOut(1000, function(){
-			$('#sky').attr('src', img ).stop().delay(500).fadeIn(1500);
+			$('#sky').fadeOut(1000, function(){
+				$('#sky').attr('src', img );
+				d.resolve();
+			});
+		d.promise()
+			.then(function(){
+				$('#sky').stop().delay(500).fadeIn(1500);
 			});
 		},10000);
 	 LineIt.loadButton();
