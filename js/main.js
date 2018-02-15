@@ -184,8 +184,8 @@ jQuery(document).ready(function($){
 	setInterval(function() {
 		// fadeOutはあってもなくてもよい
 		img = getSkyImg();
-		$('#sky').fadeOut(1000, function(){
-			$('#sky').attr('src', img ).delay(500).fadeIn(1500);
+		$('#sky').stop().fadeOut(1000, function(){
+			$('#sky').attr('src', img ).stop().delay(500).fadeIn(1500);
 			});
 		},10000);
 	 LineIt.loadButton();
