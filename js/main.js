@@ -196,10 +196,8 @@ jQuery(document).ready(function($){
 		},10000);
 
 	$('.flyerimg').on('click', function() {
-		var arr = this.src.split("/");
-		var filename = arr[arr.length-1];
-		var src = filename.replace(".png","_l.png");
-		$('#modal img').attr('src', "img/"+ src );
+		var src = this.src.replace(".png","_l.png");
+		$('#modal img').attr('src', src );
 		var origin_width = 2976;
 		var origin_height = 4175;
 		var w = $(window).width()
