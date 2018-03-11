@@ -194,6 +194,44 @@ jQuery(document).ready(function($){
 				$('#sky').stop().delay(500).fadeIn(1500);
 			});
 		},10000);
-	 LineIt.loadButton();
+
+	$('.flyerimg').on('click', function() {
+		var src = this.src.replace(".png","_l.png");
+		$('#modal img').attr('src', src );
+		var origin_width = 2976;
+		var origin_height = 4175;
+		var w = $(window).width()
+		var h = $(window).height();
+		var img_h = h*0.8;
+		var img_w = origin_width * img_h / origin_height;
+		if (w * 0.8 < img_w )
+		{
+			img_w = w *0.8;
+			$('#modal').css({
+				'left' : ((w-img_w)/2) + "px",
+				'top' : ((h-img_h)/2) + "px",
+			});
+			$('#modal img').css({
+				'width' : img_w + "px"
+			});
+		}
+		else
+		{
+			$('#modal').css({
+				'left' : ((w-img_w)/2) + "px",
+				'top' : ((h-img_h)/2) + "px",
+			});
+			$('#modal img').css({
+				'height' : img_h + "px"
+			});
+		}
+  	$('#overlay, #modal').fadeIn();
+	});
+
+	$('#overlay').on('click', function() {
+  	$('#overlay, #modal').fadeOut();
+	});
+
+	LineIt.loadButton();
 
 });
