@@ -29,3 +29,14 @@
 .fadein {
   display: none;
 }
+
+.recruit_irast {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.recruit_irast img {
+  width: 100%;
+}
