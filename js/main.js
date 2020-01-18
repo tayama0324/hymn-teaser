@@ -19,8 +19,7 @@ jQuery(document).ready(function($){
    });
 
 	 $('.mini').on('click', function() {
-		 var src = "/img/origoe2020kariomote.png";
-		 $('#modal img').attr('src', src );
+		 $('#modal img').attr('src', this.src );
 		 var origin_width = 1380;
 		 var origin_height = 2040;
 		 var w = $(window).width()
