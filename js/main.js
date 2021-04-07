@@ -18,7 +18,7 @@ jQuery(document).ready(function($){
       return false;
    });
 
-	 $('.mini').on('click', function() {
+	 $('.modalimg').on('click', function() {
 		 $('#modal img').attr('src', this.src );
 		 var origin_width = 1380;
 		 var origin_height = 2040;
@@ -44,6 +44,7 @@ jQuery(document).ready(function($){
 			 $('#modal').css({
 				 'left' : Math.round(((w-img_w)/2)) + "px",
 				 'top' : Math.round(((h-img_h)/2)) + "px",
+				 'width' : img_w + "px"
 			 });
 			 $('#modal img').css({
 				 'height' : img_h + "px"
