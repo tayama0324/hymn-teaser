@@ -15,13 +15,14 @@ jQuery(document).ready(function($){
       var position = target.offset().top;
       // スムーススクロール
       $('body,html').animate({scrollTop:position}, speed, 'swing');
+			$('.cd-main-nav').children('ul').toggleClass('is-visible');
       return false;
    });
 
 	 $('.modalimg').on('click', function() {
 		 $('#modal img').attr('src', this.src );
-		 var origin_width = 1380;
-		 var origin_height = 2040;
+		 var origin_width = this.naturalWidth;
+		 var origin_height = this.naturalHeight;
 		 var w = $(window).width()
 		 var h = $(window).height();
 		 var h_ratio = 0.75;
@@ -33,10 +34,12 @@ jQuery(document).ready(function($){
 			 $('#modal').css({
 				 'left' : Math.round(((w-img_w)/2)) + "px",
 				 'top' : Math.round(((h-img_h)/2)) + "px",
+				 'width' : '',
 				 'height' : img_h + "px"
 			 });
 			 $('#modal img').css({
-				 'width' : img_w + "px"
+				 'width' : img_w + "px",
+				 'height' : ''
 			 });
 		 }
 		 else
@@ -44,9 +47,11 @@ jQuery(document).ready(function($){
 			 $('#modal').css({
 				 'left' : Math.round(((w-img_w)/2)) + "px",
 				 'top' : Math.round(((h-img_h)/2)) + "px",
-				 'width' : img_w + "px"
+				 'width' : img_w + "px",
+				 'height' : ''
 			 });
 			 $('#modal img').css({
+				 'width' : '',
 				 'height' : img_h + "px"
 			 });
 		 }
@@ -58,4 +63,12 @@ jQuery(document).ready(function($){
 		 $('#overlay, #modal').fadeOut();
 		 return false;
 	 });
+
+	 /* img setting */
+	 $('.util-text-align-center img[data-width]').each(function(){
+		  this.width=this.dataset.width;
+			if(this.naturalWidth > this.naturalHeight){
+				$(this).addClass('wideimg');
+			}
+		});
 });
