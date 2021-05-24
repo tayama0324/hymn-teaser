@@ -340,6 +340,10 @@ Main components
   border-radius: 50%;
  }
 
+#top img{
+  margin: 5px 0 0 0;
+}
+
  #sky {
    width:200px;
    display: none;
