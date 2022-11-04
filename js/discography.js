@@ -71,7 +71,7 @@ jQuery(document).ready(function($){
       console.log(data.url.split("\n"));
         $.each(data.url.split("\n"),
          function(idx,value){
-          var embedUrl = value.replace("https://youtu.be/", "https:www.youtube.com/embed/");
+          var embedUrl = value.replace("https://youtu.be/", "https://www.youtube.com/embed/");
           var template = '<div class="youtube"><iframe loading="lazy" width="560" height="315" src="' + embedUrl +'" title="'+ data.event +" "+ data.song + '" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
           songDiv.append(template);
         });
