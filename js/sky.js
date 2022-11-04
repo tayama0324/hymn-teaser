@@ -149,7 +149,7 @@ function getSkyImg() {
 		}
 	}
 	var chosen = Math.floor(Math.random() * names.length);
-	return "/img/" + names[chosen];
+	return "/img/passage-of-the-sky/" + names[chosen];
 };
 
 sky.src = getSkyImg();

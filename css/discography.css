@@ -1,0 +1,19 @@
+
+/* Discography (All Songs) */
+/* 年度 */
+#allSongsContents h1 {
+  font-size: 1.875rem;
+}
+/* 月日 */
+#allSongsContents h2 {
+  font-size: 1.5rem;
+}
+/* 演奏会名 */
+#allSongsContents h3 {
+  font-size: 1.25rem;
+}
+
+#allSongsContents .songTitle {
+  font-size: 1.3rem;
+  font-weight: bold;
+}

@@ -22,6 +22,7 @@
 }
 
 .fb_iframe_widget > span {
+  padding: 8px 0 0 0;
   vertical-align: baseline !important;
 }
 
