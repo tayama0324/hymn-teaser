@@ -1,6 +1,71 @@
 [
 	{
 		"year": 2023,
+		"date": "12/23",
+		"event": "2023クリスマスコンサート",
+		"song": "You can fly",
+		"liricist": "CAHN SAMMY",
+		"composer": "FAIN SAMMY",
+		"artist": "",
+		"title": "劇場作品『ピーター・パン』挿入歌",
+		"arranger": "松永ちづる",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2023,
+		"date": "12/23",
+		"event": "2023クリスマスコンサート",
+		"song": "すてきなホリデイ",
+		"liricist": "竹内まりや",
+		"composer": "竹内まりや",
+		"artist": "竹内まりや",
+		"title": "",
+		"arranger": "林邦彦",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2023,
+		"date": "12/23",
+		"event": "2023クリスマスコンサート",
+		"song": "eve",
+		"liricist": "矢吹香那",
+		"composer": "矢吹香那",
+		"artist": "早見沙織",
+		"title": "",
+		"arranger": "田中達也",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2023,
+		"date": "12/23",
+		"event": "2023クリスマスコンサート",
+		"song": "Snow halation",
+		"liricist": "畑亜貴",
+		"composer": "山田高弘",
+		"artist": "μ's",
+		"title": "TVアニメ『ラブライブ！』第2期挿入歌",
+		"arranger": "林邦彦",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2023,
+		"date": "12/23",
+		"event": "2023クリスマスコンサート",
+		"song": "Hail Holy Queen",
+		"liricist": "",
+		"composer": "",
+		"artist": "",
+		"title": "映画『天使にラブ・ソングを…』挿入歌",
+		"arranger": "MARC SHAIMAN",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2023,
 		"date": "4/9",
 		"event": "アニソン合唱プロジェクト『ChoieL(クワエル)』全曲コンサート",
 		"song": "優しさの理由",
@@ -35,7 +100,7 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
-		"url": "",
+		"url": "https://youtu.be/sBktXxZtn-w",
 		"guest": ""
 	},
 	{
@@ -48,7 +113,7 @@
 		"artist": "",
 		"title": "劇場作品『ピーター・パン』挿入歌",
 		"arranger": "松永ちづる",
-		"url": "",
+		"url": "https://youtu.be/ysn6F921PgU",
 		"guest": ""
 	},
 	{
@@ -840,7 +905,7 @@
 		"composer": "山田高弘",
 		"artist": "μ's",
 		"title": "TVアニメ『ラブライブ！』第2期挿入歌",
-		"arranger": "",
+		"arranger": "林邦彦",
 		"url": "",
 		"guest": ""
 	},
