@@ -51,9 +51,10 @@ jQuery(document).ready(function($){
       $("<p>").appendTo(songDiv).text("作詞 : " + liricist);
     }
     // 作曲
-    var composer = data.composer.replace("\n"," / ");
-    $("<p>").appendTo(songDiv).text("作曲 : " + composer);
-
+    if (data.composer) {
+      var composer = data.composer.replace("\n"," / ");
+      $("<p>").appendTo(songDiv).text("作曲 : " + composer);
+    }
     // アーティスト
     if (data.artist) {
       $("<p>").appendTo(songDiv).text("アーティスト : " + data.artist);
