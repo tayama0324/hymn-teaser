@@ -126,7 +126,7 @@
 		"artist": "ARCANA PROJECT",
 		"title": "TVアニメ『白い砂のアクアトープ』OP",
 		"arranger": "田中達也",
-		"url": "",
+		"url": "https://youtu.be/iqOPLttgv5U",
 		"guest": ""
 	},
 	{
@@ -139,7 +139,7 @@
 		"artist": "中島愛",
 		"title": "TVアニメ『星合の空』OP",
 		"arranger": "椎野堅太",
-		"url": "",
+		"url": "https://youtu.be/DboGYOTGark",
 		"guest": ""
 	},
 	{
@@ -185,6 +185,19 @@
 		"year": 2023,
 		"date": "2/18",
 		"event": "第3回単独演奏会『祝福のまなざし』",
+		"song": "動物の謝肉祭より『水族館』",
+		"liricist": "",
+		"composer": "SAINT SAENS CAMILLE CHARLES",
+		"artist": "",
+		"title": "",
+		"arranger": "",
+		"url": "https://youtu.be/y712teesZ3Q",
+		"guest": ""
+	},
+	{
+		"year": 2023,
+		"date": "2/18",
+		"event": "第3回単独演奏会『祝福のまなざし』",
 		"song": "透明シンガー",
 		"liricist": "早見沙織",
 		"composer": "ぷす（fromツユ）",
@@ -204,7 +217,7 @@
 		"artist": "Ado",
 		"title": "TVドラマ『ドクターホワイト』主題歌",
 		"arranger": "森山至貴",
-		"url": "",
+		"url": "https://youtu.be/yr9WuMWCb84",
 		"guest": ""
 	},
 	{
