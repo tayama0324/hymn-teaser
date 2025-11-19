@@ -1,6 +1,45 @@
 [
 	{
 		"year": 2025,
+		"date": "8/30",
+		"event": "副次的文化系合唱祭2025～大盤振舞～ DAY2",
+		"song": "その声が地図になる",
+		"liricist": "早見沙織・矢吹香那",
+		"composer": "早見沙織・矢吹香那",
+		"artist": "早見沙織",
+		"title": "TVアニメ『赤髪の白雪姫』第2クール目OP",
+		"arranger": "椎野堅太",
+		"url": "",
+		"guest": "ヴァイオリン：ゆい"
+	},
+	{
+		"year": 2025,
+		"date": "8/30",
+		"event": "副次的文化系合唱祭2025～大盤振舞～ DAY2",
+		"song": "Stellar Stellar",
+		"liricist": "星街すいせい",
+		"composer": "TAKU INOUE",
+		"artist": "星街すいせい",
+		"title": "",
+		"arranger": "手柴里美",
+		"url": "",
+		"guest": "ヴァイオリン：ゆい"
+	},
+	{
+		"year": 2025,
+		"date": "8/30",
+		"event": "副次的文化系合唱祭2025～大盤振舞～ DAY2",
+		"song": "マジックナンバー",
+		"liricist": "坂本真綾",
+		"composer": "北川勝利",
+		"artist": "坂本真綾",
+		"title": "TVアニメ『こばと。』OP",
+		"arranger": "椎野堅太",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2025,
 		"date": "4/5",
 		"event": "坂本真綾楽曲オンリージョイントコンサート『ILLUMINATIC』",
 		"song": "今日だけの音楽",
@@ -20,7 +59,7 @@
 		"liricist": "坂本真綾",
 		"composer": "古閑翔平",
 		"artist": "坂本真綾",
-		"title": "",
+		"title": "スマートフォン向けゲーム『Fate/Grand Order』第2部後期主題歌",
 		"arranger": "森山至貴",
 		"url": "",
 		"guest": ""
@@ -59,9 +98,9 @@
 		"liricist": "坂本真綾",
 		"composer": "北川勝利",
 		"artist": "坂本真綾",
-		"title": "",
+		"title": "TVアニメ『こばと。』OP",
 		"arranger": "椎野堅太",
-		"url": "",
+		"url": "https://youtu.be/DUnpZhVASp4",
 		"guest": ""
 	},
 	{
@@ -74,7 +113,7 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
-		"url": "",
+		"url": "https://youtu.be/PZZUe17zW70",
 		"guest": ""
 	},
 	{
@@ -152,7 +191,7 @@
 		"artist": "早見沙織",
 		"title": "THE IDOLM@STER CINDERELLA MASTER 004 高垣楓",
 		"arranger": "Andante",
-		"url": "",
+		"url": "https://youtu.be/r6Ir0rGntbs",
 		"guest": ""
 	},
 	{
