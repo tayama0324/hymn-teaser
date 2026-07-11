@@ -1,6 +1,32 @@
 [
 	{
 		"year": 2026,
+		"date": "7/11",
+		"event": "第81回 東京都合唱祭",
+		"song": "混声合唱曲集『地平線のかなたへ』より\n春に",
+		"liricist": "谷川俊太郎",
+		"composer": "木下牧子",
+		"artist": "",
+		"title": "",
+		"arranger": "",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2026,
+		"date": "7/11",
+		"event": "第81回 東京都合唱祭",
+		"song": "さよーならまたいつか！",
+		"liricist": "米津玄師",
+		"composer": "米津玄師",
+		"artist": "米津玄師",
+		"title": "TVドラマ『虎に翼』主題歌",
+		"arranger": "ひびき",
+		"url": "",
+		"guest": ""
+	},
+	{
+		"year": 2026,
 		"date": "2/11",
 		"event": "ぴゅーめ×織声 Joint Concert『Voices Soaring』",
 		"song": "NEO SKY, NEO MAP!",
@@ -178,7 +204,7 @@
 		"artist": "Official髭男dism",
 		"title": "映画『コンフィデンスマンJP プリンセス編』主題歌",
 		"arranger": "藤宮奏",
-		"url": "",
+		"url": "https://youtu.be/gcbxwjQIi4o",
 		"guest": ""
 	},
 	{
