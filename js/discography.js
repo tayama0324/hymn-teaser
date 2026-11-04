@@ -1,6 +1,17 @@
 
 jQuery(document).ready(function($) {
 
+  var currentYear = new Date().getFullYear();
+  var $selector = $("#performanceYear");
+
+  // JSON取得前にも今年を表示
+  $selector.empty().append(
+    $("<option>").val(currentYear).text(currentYear + "年")
+  );
+
+  // 初期選択
+  $selector.val(String(currentYear));
+
   $.ajax({
     url: "/discography/all_songs_info.json",
     type: "GET",
@@ -9,43 +20,40 @@ jQuery(document).ready(function($) {
   .done(function(data) {
 
     // 演奏年一覧を取得
-    var currentYear = new Date().getFullYear();
     var years = [...new Set(data.map(function(item) {
-      return String(item.year);
+      return Number(item.year);
     }))];
 
-    // 今年がデータに存在しなくても選択肢に追加
-    if (!years.includes(String(currentYear))) {
-      years.push(String(currentYear));
+    // 今年がデータに存在しなくても追加
+    if (!years.includes(currentYear)) {
+      years.push(currentYear);
     }
 
-    // 年を降順に並べる
+    // 降順
     years.sort(function(a, b) {
-      return Number(b) - Number(a);
+      return b - a;
     });
 
-    // セレクトボックス生成
-    var $selector = $("#performanceYear");
+    // 選択肢を再生成
     $selector.empty();
 
     $.each(years, function(idx, year) {
       $("<option>")
-        .val(year)
+        .val(String(year))
         .text(year + "年")
         .appendTo($selector);
     });
 
-    // 初期選択：今年
+    // 今年を選択
     $selector.val(String(currentYear));
 
-    // 年変更時に再描画
-    $selector.on("change", function() {
+    // 年変更時
+    $selector.off("change").on("change", function() {
       renderSongs($(this).val());
     });
 
     // 初期表示
     renderSongs(String(currentYear));
-
 
     // ---------------------------------
     // 選択された年の演奏曲を描画
@@ -180,9 +188,9 @@ jQuery(document).ready(function($) {
     }
 
   })
-  .fail(function() {
+  .fail(function(xhr, status, error) {
+    console.error("演奏記録取得失敗:", status, error);
+    console.error(xhr.responseText);
     $("#allSongsContents").text("演奏記録を取得できませんでした。");
-    console.log("error");
   });
-
 });
