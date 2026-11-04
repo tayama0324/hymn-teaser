@@ -19,22 +19,15 @@ jQuery(document).ready(function($) {
   })
   .done(function(data) {
 
-    // 演奏年一覧を取得
-    var years = [...new Set(data.map(function(item) {
-      return Number(item.year);
-    }))];
+    // 演奏年の選択肢（開始年を指定）
+    var startYear = 2017;
+    var years = [];
 
-    // 今年がデータに存在しなくても追加
-    if (!years.includes(currentYear)) {
-      years.push(currentYear);
+    for (var year = currentYear; year >= startYear; year--) {
+      years.push(year);
     }
 
-    // 降順
-    years.sort(function(a, b) {
-      return b - a;
-    });
-
-    // 選択肢を再生成
+    // 選択肢を生成
     $selector.empty();
 
     $.each(years, function(idx, year) {
