@@ -9,6 +9,8 @@
 		"artist": "RADWIMPS",
 		"title": "劇場作品『天気の子』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -22,6 +24,8 @@
 		"artist": "坂本真綾",
 		"title": "スマートフォン向けゲーム『Fate/Grand Order』第2部後期主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -35,6 +39,8 @@
 		"artist": "月見ヤチヨ(cv.早見沙織)",
 		"title": "Netflix配信作品『超かぐや姫！』挿入歌",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -48,6 +54,8 @@
 		"artist": "かぐや (cv.夏吉ゆうこ) & 月見ヤチヨ (cv.早見沙織)",
 		"title": "Netflix配信作品『超かぐや姫！』挿入歌",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -61,6 +69,8 @@
 		"artist": "月見ヤチヨ(cv.早見沙織)",
 		"title": "Netflix配信作品『超かぐや姫！』挿入歌",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -74,6 +84,8 @@
 		"artist": "かぐや(cv.夏吉ゆうこ)",
 		"title": "Netflix配信作品『超かぐや姫！』挿入歌",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -87,6 +99,8 @@
 		"artist": "かぐや(cv.夏吉ゆうこ) from 超かぐや姫！",
 		"title": "Netflix配信作品『超かぐや姫！』挿入歌",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -100,8 +114,10 @@
 		"artist": "サカナクション",
 		"title": "TVアニメ『チ。―地球の運動について―』OP",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2026,
@@ -113,8 +129,10 @@
 		"artist": "星街すいせい",
 		"title": "",
 		"arranger": "手柴里美",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2026,
@@ -125,9 +143,11 @@
 		"composer": "堀江晶太",
 		"artist": "TRUE",
 		"title": "TVアニメ『ヴァイオレット・エヴァーガーデン』OP",
-		"arranger": "米内山美里（ヴァイオリン編曲 椎野堅太）",
+		"arranger": "米内山美里",
+		"arranger_piano": "",
+		"arranger_violin": "椎野堅太",
 		"url": "",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2026,
@@ -139,8 +159,10 @@
 		"artist": "BUMP OF CHICKEN",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2026,
@@ -152,6 +174,8 @@
 		"artist": "",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -165,6 +189,8 @@
 		"artist": "米津玄師",
 		"title": "TVドラマ『虎に翼』主題歌",
 		"arranger": "ひびき",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -178,6 +204,8 @@
 		"artist": "虹ヶ咲学園スクールアイドル同好会",
 		"title": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』第1期ED",
 		"arranger": "田畠佑一",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/GpsFJIrOjpg",
 		"guest": ""
 	},
@@ -191,6 +219,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/RjncWnRvvuA",
 		"guest": ""
 	},
@@ -204,6 +234,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -217,6 +249,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -230,6 +264,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -243,6 +279,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -256,6 +294,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -269,6 +309,8 @@
 		"artist": "Lia",
 		"title": "TVアニメ『Angel Beats!』OP",
 		"arranger": "名田綾子",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/d-tKR1g9-iY",
 		"guest": ""
 	},
@@ -282,6 +324,8 @@
 		"artist": "佐々木恵梨",
 		"title": "TVアニメ『プラスティック・メモリーズ』OP",
 		"arranger": "藤宮奏",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/sesANzhxs3k",
 		"guest": ""
 	},
@@ -295,6 +339,8 @@
 		"artist": "米津玄師",
 		"title": "TVドラマ『虎に翼』主題歌",
 		"arranger": "ひびき",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/_umbDiu8S7M",
 		"guest": ""
 	},
@@ -308,6 +354,8 @@
 		"artist": "早見沙織、飯田友子",
 		"title": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 31",
 		"arranger": "松波千映子",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/qaM2OJupR4E",
 		"guest": ""
 	},
@@ -321,6 +369,8 @@
 		"artist": "QU4RTZ",
 		"title": "『虹ヶ咲学園スクールアイドル同好会』",
 		"arranger": "名田綾子",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/N87bOWqs8Cw",
 		"guest": ""
 	},
@@ -334,8 +384,10 @@
 		"artist": "Liella!",
 		"title": "『ラブライブ！スーパースター!!』",
 		"arranger": "純音",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/isiiYJF1f-8",
-		"guest": "アコースティックギター：島林深雪"
+		"guest": "（アコースティックギター）島林深雪"
 	},
 	{
 		"year": 2026,
@@ -347,6 +399,8 @@
 		"artist": "Official髭男dism",
 		"title": "映画『コンフィデンスマンJP プリンセス編』主題歌",
 		"arranger": "藤宮奏",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/gcbxwjQIi4o",
 		"guest": ""
 	},
@@ -360,6 +414,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "宮本正太郎",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/E71Tp9baCxw",
 		"guest": ""
 	},
@@ -373,6 +429,8 @@
 		"artist": "μ's",
 		"title": "TVアニメ『ラブライブ！』第2期挿入歌",
 		"arranger": "トモスコ",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/XaEMMxHUzjc",
 		"guest": ""
 	},
@@ -386,8 +444,10 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『赤髪の白雪姫』第2クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/PmPlgSpJ8Is",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2025,
@@ -399,8 +459,10 @@
 		"artist": "星街すいせい",
 		"title": "",
 		"arranger": "手柴里美",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/QtTweWipPwQ",
-		"guest": "ヴァイオリン：ゆい"
+		"guest": "（ヴァイオリン）ゆい"
 	},
 	{
 		"year": 2025,
@@ -412,6 +474,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『こばと。』OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -425,6 +489,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/boUO2gEZxEA",
 		"guest": ""
 	},
@@ -438,6 +504,8 @@
 		"artist": "坂本真綾",
 		"title": "スマートフォン向けゲーム『Fate/Grand Order』第2部後期主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -451,6 +519,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "藤宮奏",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/dBeLtg9ZYUk",
 		"guest": ""
 	},
@@ -464,6 +534,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/-w72LPhmJRA",
 		"guest": ""
 	},
@@ -477,6 +549,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『こばと。』OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/DUnpZhVASp4",
 		"guest": ""
 	},
@@ -490,6 +564,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/EjU0zUabOH8",
 		"guest": "トロンボーン：AKI-C、バリトンサックス：小林美鈴"
 	},
@@ -503,6 +579,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/PZZUe17zW70",
 		"guest": ""
 	},
@@ -516,6 +594,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -529,6 +609,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -542,6 +624,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -555,6 +639,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -568,6 +654,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -581,6 +669,8 @@
 		"artist": "早見沙織",
 		"title": "THE IDOLM@STER CINDERELLA MASTER 004 高垣楓",
 		"arranger": "Andante",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/r6Ir0rGntbs",
 		"guest": ""
 	},
@@ -594,6 +684,8 @@
 		"artist": "",
 		"title": "劇場作品『ピーター・パン』挿入歌",
 		"arranger": "松永ちづる",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -607,6 +699,8 @@
 		"artist": "竹内まりや",
 		"title": "",
 		"arranger": "林邦彦",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/YTl-GJDvGI4",
 		"guest": ""
 	},
@@ -620,6 +714,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/pxZDDbemdxs",
 		"guest": ""
 	},
@@ -633,6 +729,8 @@
 		"artist": "μ's",
 		"title": "TVアニメ『ラブライブ！』第2期挿入歌",
 		"arranger": "林邦彦",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/quk2Te0lfd8",
 		"guest": ""
 	},
@@ -646,6 +744,8 @@
 		"artist": "",
 		"title": "映画『天使にラブ・ソングを…』挿入歌",
 		"arranger": "MARC SHAIMAN",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/jzlnGP6kkhg",
 		"guest": ""
 	},
@@ -659,6 +759,8 @@
 		"artist": "ChouCho",
 		"title": "TVアニメ『氷菓』OP",
 		"arranger": "土田豊貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -672,6 +774,8 @@
 		"artist": "Aqours",
 		"title": "TVアニメ『ラブライブ!サンシャイン!!』第2期挿入歌",
 		"arranger": "松波千映子",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": "音ノ木の星合唱部 La Piume Blu（合同演奏）"
 	},
@@ -685,6 +789,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/sBktXxZtn-w",
 		"guest": ""
 	},
@@ -698,6 +804,8 @@
 		"artist": "",
 		"title": "劇場作品『ピーター・パン』挿入歌",
 		"arranger": "松永ちづる",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/ysn6F921PgU",
 		"guest": ""
 	},
@@ -711,6 +819,8 @@
 		"artist": "ARCANA PROJECT",
 		"title": "TVアニメ『白い砂のアクアトープ』OP",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/iqOPLttgv5U",
 		"guest": ""
 	},
@@ -724,6 +834,8 @@
 		"artist": "中島愛",
 		"title": "TVアニメ『星合の空』OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/DboGYOTGark",
 		"guest": ""
 	},
@@ -737,6 +849,8 @@
 		"artist": "Cö shu Nie",
 		"title": "TVアニメ『呪術廻戦』ED",
 		"arranger": "U. Jiro",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -750,6 +864,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/3i9iVNFLaVY",
 		"guest": ""
 	},
@@ -763,6 +879,8 @@
 		"artist": "ARIANNE",
 		"title": "『エヴァンゲリオン』シリーズ",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -776,6 +894,8 @@
 		"artist": "",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/y712teesZ3Q",
 		"guest": ""
 	},
@@ -789,6 +909,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "ひびき",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/rJGpyq0Pk6o",
 		"guest": ""
 	},
@@ -802,6 +924,8 @@
 		"artist": "Ado",
 		"title": "TVドラマ『ドクターホワイト』主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/yr9WuMWCb84",
 		"guest": ""
 	},
@@ -815,6 +939,8 @@
 		"artist": "秦基博",
 		"title": "",
 		"arranger": "手柴里美",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/ex1Ior5FPBA",
 		"guest": ""
 	},
@@ -828,6 +954,8 @@
 		"artist": "",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/WrpRZRhKdaU",
 		"guest": ""
 	},
@@ -841,6 +969,8 @@
 		"artist": "林明日香",
 		"title": "『劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ』主題歌",
 		"arranger": "U. Jiro",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/Wy2grfukwjQ",
 		"guest": ""
 	},
@@ -854,6 +984,8 @@
 		"artist": "スタァライト九九組",
 		"title": "『劇場版 少女☆歌劇 レヴュースタァライト』主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/6c3-ihWFyhU",
 		"guest": ""
 	},
@@ -867,6 +999,8 @@
 		"artist": "Liella!",
 		"title": "『ラブライブ！スーパースター!!』",
 		"arranger": "森田花央里",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/1ptvuqjTJeU",
 		"guest": ""
 	},
@@ -880,6 +1014,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/MK3F3jbT_io",
 		"guest": ""
 	},
@@ -893,6 +1029,8 @@
 		"artist": "ARIANNE",
 		"title": "『エヴァンゲリオン』シリーズ",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -906,6 +1044,8 @@
 		"artist": "Aqours",
 		"title": "TVアニメ『ラブライブ!サンシャイン!!』第2期挿入歌",
 		"arranger": "松波千映子",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/OqQEJeC9JO0",
 		"guest": ""
 	},
@@ -919,6 +1059,8 @@
 		"artist": "松たか子",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -932,6 +1074,8 @@
 		"artist": "嵐",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -945,6 +1089,8 @@
 		"artist": "春奈るな",
 		"title": "TVアニメ『冴えない彼女の育てかた』第1期OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -958,6 +1104,8 @@
 		"artist": "山崎まさよし",
 		"title": "劇場作品『秒速5センチメートル』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -971,6 +1119,8 @@
 		"artist": "Aimer",
 		"title": "『劇場版 Fate/stay night [Heaven's Feel] 最終章』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -984,6 +1134,8 @@
 		"artist": "UNISON SQUARE GARDEN",
 		"title": "TVアニメ『夜桜四重奏 〜ハナノウタ〜』OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -997,6 +1149,8 @@
 		"artist": "スタァライト九九組",
 		"title": "『劇場版 少女☆歌劇 レヴュースタァライト』主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/tUNcavCHD4s",
 		"guest": ""
 	},
@@ -1010,6 +1164,8 @@
 		"artist": "RADWIMPS",
 		"title": "劇場作品『天気の子』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/GOuVkw3WtBE",
 		"guest": ""
 	},
@@ -1023,6 +1179,8 @@
 		"artist": "宇多田ヒカル",
 		"title": "『ヱヴァンゲリヲン新劇場版:Q』主題歌",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1036,6 +1194,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/72V2T7CSuYg",
 		"guest": ""
 	},
@@ -1049,6 +1209,8 @@
 		"artist": "RADWIMPS",
 		"title": "劇場作品『天気の子』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/5BfyOvW_Hc8",
 		"guest": ""
 	},
@@ -1062,6 +1224,8 @@
 		"artist": "奥井亜紀",
 		"title": "TVアニメ『魔法陣グルグル』1994年版OP",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/sZfL-8lckF8",
 		"guest": ""
 	},
@@ -1075,6 +1239,8 @@
 		"artist": "東京事変",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/9qAtZurAXEs",
 		"guest": ""
 	},
@@ -1088,8 +1254,10 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/8ojY5joSSfA",
-		"guest": "トランペット：火ノ川慎平"
+		"guest": "（トランペット）火ノ川慎平"
 	},
 	{
 		"year": 2020,
@@ -1101,6 +1269,8 @@
 		"artist": "オーイシマサヨシ",
 		"title": "TVアニメ『月刊少女野崎くん』OP",
 		"arranger": "imock",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/295HobrPGi0",
 		"guest": ""
 	},
@@ -1114,6 +1284,8 @@
 		"artist": "aiko",
 		"title": "",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/NkGBk6IWXkk",
 		"guest": ""
 	},
@@ -1127,6 +1299,8 @@
 		"artist": "藤宮香織（雨宮天）",
 		"title": "TVアニメ『一週間フレンズ。』ED",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/3pym1jfutBI",
 		"guest": ""
 	},
@@ -1140,6 +1314,8 @@
 		"artist": "TRUE",
 		"title": "TVアニメ『ヴァイオレット・エヴァーガーデン』OP",
 		"arranger": "米内山美里",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/pl58G5BZwa4",
 		"guest": ""
 	},
@@ -1153,6 +1329,8 @@
 		"artist": "宇多田ヒカル",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1166,6 +1344,8 @@
 		"artist": "RADWIMPS",
 		"title": "劇場作品『天気の子』主題歌",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/-XFh5E9H6_Q",
 		"guest": ""
 	},
@@ -1179,6 +1359,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/wogAkg1EOCU",
 		"guest": ""
 	},
@@ -1192,6 +1374,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/PJ_NJryZxA4",
 		"guest": ""
 	},
@@ -1205,6 +1389,8 @@
 		"artist": "玉木マリ(Cv: 水瀬いのり) / 小淵沢報瀬(Cv: 花澤香菜) / 三宅日向(Cv: 井口裕香) / 白石結月(Cv: 早見沙織)",
 		"title": "TVアニメ『宇宙よりも遠い場所』ED",
 		"arranger": "imock",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/jtpmArofj_4",
 		"guest": ""
 	},
@@ -1218,8 +1404,10 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/l_n20rVGT8I",
-		"guest": "トランペット：火ノ川慎平"
+		"guest": "（トランペット）火ノ川慎平"
 	},
 	{
 		"year": 2019,
@@ -1231,6 +1419,8 @@
 		"artist": "TRUE",
 		"title": "TVアニメ『ヴァイオレット・エヴァーガーデン』OP",
 		"arranger": "米内山美里",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1244,6 +1434,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1257,6 +1449,8 @@
 		"artist": "玉木マリ(Cv: 水瀬いのり) / 小淵沢報瀬(Cv: 花澤香菜) / 三宅日向(Cv: 井口裕香) / 白石結月(Cv: 早見沙織)",
 		"title": "TVアニメ『宇宙よりも遠い場所』ED",
 		"arranger": "imock",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/TaRl0tBvWr8",
 		"guest": ""
 	},
@@ -1270,6 +1464,8 @@
 		"artist": "saya",
 		"title": "TVアニメ『宇宙よりも遠い場所』OP",
 		"arranger": "うみと",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/Wp2sDUdQyN0",
 		"guest": ""
 	},
@@ -1283,6 +1479,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『あまんちゅ!』第1期OP",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1296,6 +1494,8 @@
 		"artist": "TRUE",
 		"title": "TVアニメ『ヴァイオレット・エヴァーガーデン』OP",
 		"arranger": "米内山美里",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/sHtoN4H9UqY",
 		"guest": ""
 	},
@@ -1309,6 +1509,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『カードキャプターさくら クリアカード編』第1クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1322,6 +1524,8 @@
 		"artist": "",
 		"title": "TVアニメ『カードキャプターさくら』劇伴",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1335,6 +1539,8 @@
 		"artist": "グミ",
 		"title": "TVアニメ『カードキャプターさくら』第1期OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1348,6 +1554,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『カードキャプターさくら クリアカード編』第1クール目ED",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1361,6 +1569,8 @@
 		"artist": "",
 		"title": "TVアニメ『カードキャプターさくら』劇伴",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1374,6 +1584,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『カードキャプターさくら』第3期OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1387,6 +1599,8 @@
 		"artist": "fhána",
 		"title": "TVアニメ『Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！』OP",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/AWvXRCgef10",
 		"guest": ""
 	},
@@ -1399,7 +1613,9 @@
 		"composer": "尾崎雄貴",
 		"artist": "Galileo Galilei",
 		"title": "TVアニメ『おおきく振りかぶって〜夏の大会編〜』OP",
-		"arranger": "",
+		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1413,6 +1629,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『あまんちゅ!』第1期OP",
 		"arranger": "森山至貴",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/v_mcDvJGh_4",
 		"guest": ""
 	},
@@ -1426,6 +1644,8 @@
 		"artist": "本間芽衣子 (CV:茅野愛衣)、安城鳴子 (CV:戸松遥)、鶴見知利子 (CV:早見沙織)",
 		"title": "TVアニメ『あの日見た花の名前を僕達はまだ知らない。』ED",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/TgvCM2NIfn0",
 		"guest": ""
 	},
@@ -1439,6 +1659,8 @@
 		"artist": "",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/1NP2u0OV0kI",
 		"guest": ""
 	},
@@ -1452,6 +1674,8 @@
 		"artist": "",
 		"title": "ミュージカル『RENT』挿入歌",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/3VJ0D8ZuxU4\nhttps://youtu.be/OZaj69vZhZY",
 		"guest": ""
 	},
@@ -1465,6 +1689,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/v6bwECMvxaM",
 		"guest": ""
 	},
@@ -1478,6 +1704,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『カードキャプターさくら クリアカード編』第1クール目ED",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/v6bwECMvxaM",
 		"guest": ""
 	},
@@ -1491,6 +1719,8 @@
 		"artist": "竹内まりや",
 		"title": "",
 		"arranger": "林邦彦",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/e4ODyOd1YE0",
 		"guest": ""
 	},
@@ -1504,6 +1734,8 @@
 		"artist": "μ's",
 		"title": "TVアニメ『ラブライブ！』第2期挿入歌",
 		"arranger": "林邦彦",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1517,8 +1749,10 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『カードキャプターさくら クリアカード編』第1クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/aR_gIUjZKaI",
-		"guest": "撮影・譜めくり・ヴァイオリン：大道寺知世(かすみ）"
+		"guest": "（撮影・譜めくり・ヴァイオリン）大道寺知世(かすみ）"
 	},
 	{
 		"year": 2018,
@@ -1530,6 +1764,8 @@
 		"artist": "",
 		"title": "TVアニメ『カードキャプターさくら』劇伴",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1543,6 +1779,8 @@
 		"artist": "グミ",
 		"title": "TVアニメ『カードキャプターさくら』第1期OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1556,6 +1794,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『カードキャプターさくら クリアカード編』第1クール目ED",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1569,6 +1809,8 @@
 		"artist": "",
 		"title": "TVアニメ『カードキャプターさくら』劇伴",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1582,6 +1824,8 @@
 		"artist": "坂本真綾",
 		"title": "TVアニメ『カードキャプターさくら』第3期OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1595,6 +1839,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『赤髪の白雪姫』第1クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/FmZpRdDLbLo",
 		"guest": ""
 	},
@@ -1608,6 +1854,8 @@
 		"artist": "つじあやの",
 		"title": "劇場作品『猫の恩返し』主題歌",
 		"arranger": "茂山愛保",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/9pwBDP8A4Ag",
 		"guest": ""
 	},
@@ -1621,6 +1869,8 @@
 		"artist": "nano.RIPE",
 		"title": "『劇場版 花咲くいろは HOME SWEET HOME』主題歌",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/JOz5D0QpnRk",
 		"guest": ""
 	},
@@ -1634,8 +1884,25 @@
 		"artist": "",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/xy2CFPl2wVo",
 		"guest": ""
+	},
+		{
+		"year": 2018,
+		"date": "4/15",
+		"event": "第1回単独演奏会『空の移ろい』",
+		"song": "スパークル",
+		"liricist": "野田洋次郎",
+		"composer": "野田洋次郎",
+		"artist": "RADWIMPS",
+		"title": "劇場作品『君の名は。』主題歌",
+		"arranger": "",
+		"arranger_piano": "渋谷絵梨香",
+		"arranger_violin": "渋谷絵梨香",
+		"url": "",
+		"guest": "（ヴァイオリン）舘村結 （朗読）かすやゆかり"
 	},
 	{
 		"year": 2018,
@@ -1647,6 +1914,8 @@
 		"artist": "ゴダイゴ",
 		"title": "TVアニメ『銀河鉄道999』OP",
 		"arranger": "猪間道明",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/6n-d5boekBs",
 		"guest": ""
 	},
@@ -1660,6 +1929,8 @@
 		"artist": "fhána",
 		"title": "TVアニメ『Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！』OP",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/rSeQH1i8MlE",
 		"guest": ""
 	},
@@ -1673,6 +1944,8 @@
 		"artist": "supercell",
 		"title": "TVアニメ『化物語』ED",
 		"arranger": "Pisacco",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/2OJHY3aiOT4",
 		"guest": ""
 	},
@@ -1686,6 +1959,8 @@
 		"artist": "Kalafina",
 		"title": "TVアニメ『Fate/Zero』ED",
 		"arranger": "田中達也",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "",
 		"guest": ""
 	},
@@ -1699,6 +1974,8 @@
 		"artist": "坂本真綾",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/IIuEJoe1B0Q",
 		"guest": ""
 	},
@@ -1712,6 +1989,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/IIuEJoe1B0Q",
 		"guest": ""
 	},
@@ -1725,6 +2004,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "",
+		"arranger_piano": "林邦彦",
+		"arranger_violin": "",
 		"url": "https://youtu.be/M-1tyWd9dIw",
 		"guest": ""
 	},
@@ -1738,6 +2019,8 @@
 		"artist": "Keno",
 		"title": "TVアニメ『HUNTER×HUNTER』1999年版第1クール目OP",
 		"arranger": "imock",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/M-1tyWd9dIw",
 		"guest": ""
 	},
@@ -1751,6 +2034,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/vM20hL4HKkk",
 		"guest": ""
 	},
@@ -1764,6 +2049,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『赤髪の白雪姫』第1クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/YmeMj85yc40",
 		"guest": ""
 	},
@@ -1777,6 +2064,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/YmeMj85yc40",
 		"guest": ""
 	},
@@ -1790,6 +2079,8 @@
 		"artist": "早見沙織",
 		"title": "",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/HNSO36bhrAg",
 		"guest": ""
 	},
@@ -1803,6 +2094,8 @@
 		"artist": "早見沙織",
 		"title": "TVアニメ『赤髪の白雪姫』第1クール目OP",
 		"arranger": "椎野堅太",
+		"arranger_piano": "",
+		"arranger_violin": "",
 		"url": "https://youtu.be/xg52yvBSlH0",
 		"guest": ""
 	}

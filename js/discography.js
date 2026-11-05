@@ -1,7 +1,7 @@
 
 jQuery(document).ready(function($) {
 
-  var currentYear = new Date().getFullYear();
+  var currentYear = 2026;
   var $selector = $("#performanceYear");
 
   // JSON取得前にも今年を表示
@@ -39,6 +39,15 @@ jQuery(document).ready(function($) {
 
     // 今年を選択
     $selector.val(String(currentYear));
+
+    // 編曲者表示
+    function renderArranger(songDiv, item, instrument, property) {
+      if (item[property]) {
+        $("<p>")
+          .appendTo(songDiv)
+          .text(instrument + "編曲 : " + item[property]);
+      }
+    }
 
     // 年変更時
     $selector.off("change").on("change", function() {
@@ -139,6 +148,12 @@ jQuery(document).ready(function($) {
         if (item.arranger) {
           $("<p>").appendTo(songDiv).text("合唱編曲 : " + item.arranger);
         }
+
+        // ピアノ編曲
+        renderArranger(songDiv, item, "ピアノ", "arranger_piano");
+
+        // ヴァイオリン編曲
+        renderArranger(songDiv, item, "ヴァイオリン", "arranger_violin");
 
         // ゲスト
         if (item.guest) {
